@@ -16,5 +16,10 @@
     "url": "https://github.com/ferror18/anyWhereFitnes/issues"
   },
   "homepage": "https://github.com/ferror18/anyWhereFitnes#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "gql": "^1.1.2",
+    "nodemon": "^2.0.7"
+  }
 }
